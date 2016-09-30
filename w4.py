@@ -1,3 +1,3 @@
 mystring = ("s40523124")
-mystring = mystring + ( "test")
+mystring = mystring +  " test"
 print(mystring)
