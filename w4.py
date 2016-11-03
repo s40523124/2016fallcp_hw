@@ -1,4 +1,4 @@
-print(GGWP)
+print("GGWP")
 '''
 tring = ("s40523124")
 mystring = mystring +  " test"
