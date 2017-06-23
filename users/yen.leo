@@ -214,7 +214,7 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2">#40523132陳崴的計算機程式課程
+<t tx="amd.20161004095719.2">#40523124安德的計算機程式課程
 
 ### THE HTML PRESENTATION FRAMEWORK
 
@@ -224,10 +224,10 @@ Created by [Hakim El Hattab](http://hakim.se)
 &lt;/small&gt;
 
 &lt;a href=
-"https://vimeo.com/user58668068"&gt;陳崴的vimeo&lt;/a&gt;
+"https://vimeo.com/user58668068"&gt＿;安德的vimeo&lt;/a&gt;
 
 &lt;a href=
-"https://github.com/s40523132/2016fallcp_hw/wiki"&gt;陳崴的wiki&lt;/a&gt;
+"https://github.com/s40523124/2016fallcp_hw/wiki"&gt;安德的wiki&lt;/a&gt;
 
 [blog](blog/index.html)
 </t>
@@ -979,6 +979,8 @@ make.start()
 
 						
 </t>
+
+
 <t tx="yen.20161016023122.2"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
